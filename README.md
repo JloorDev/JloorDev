@@ -1,16 +1,28 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+Im+Jloor!)](https://git.io/typing-svg)
 
-<!--
-**JloorDev/JloorDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programming student from Ecuador with 2 years of learning. I am currently interested in Videogame development and FNF Moding. I am currently learning HAXE, Godot, GameMaker Studio 2 and Unity!
 
-Here are some ideas to get you started:
+<p align="left"> 
+ <img src="https://img.shields.io/github/followers/JloorDev?color=2396ED&label=Followers" alt="JloorDev" />  
+ <img src="https://img.shields.io/github/stars/JloorDev?style=flat&color=2396ED" />  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,github,godot,haxe,haxeflixel,unity,=13" />
+  </a>
+</p>
+
+## Connect with me!
+
+<p > 
+ <a href="https://twitter.com/GamerJloor">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+ 
+  <a href="https://discord.gg/VseWbHCgRJ">
+   <img src="https://skillicons.dev/icons?i=discord" />
+  </a> 
+</p>
