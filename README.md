@@ -15,7 +15,7 @@ I am a programming student from Ecuador with 2 years of learning. I am currently
   </a>
 </p>
 
-## Connect with me!
+## Contact me!
 
 <p > 
  <a href="https://twitter.com/GamerJloor">
