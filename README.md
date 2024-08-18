@@ -26,6 +26,3 @@ I am a programming student from Ecuador with 2 years of learning. I am currently
    <img src="https://skillicons.dev/icons?i=discord" />
   </a> 
 </p>
-
-## 😛
-![Hi Lunarcleint](https://media.discordapp.net/attachments/928015549538140172/1016454192702955580/unknown.gif)
