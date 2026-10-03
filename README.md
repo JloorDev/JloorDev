@@ -21,36 +21,30 @@ I'm part of **[CalciumCat Team](https://calciumcat-team.itch.io/)**, where we pu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,haxe,haxeflixel,py,unity,git,github&perline=7" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=godot,haxe,haxeflixel,py,swift,unity,git,github&perline=8" alt="Skills" />
   </a>
 </p>
 
 ## Projects
 
 <p align="center">
-  <a href="https://github.com/JloorDev/FNF-x-Fallen-Stars-main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JloorDev&repo=FNF-x-Fallen-Stars-main&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9&icon_color=F97316" alt="FNF x Fallen Stars" />
+  <a href="https://github.com/InfiniteE-Team/Infinite-Engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=InfiniteE-Team&repo=Infinite-Engine&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9&icon_color=F97316" alt="Infinite Engine" />
   </a>
-  <a href="https://github.com/JloorDev/VsMiguel-Main-Public-V1.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JloorDev&repo=VsMiguel-Main-Public-V1.0&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9&icon_color=F97316" alt="VsMiguel" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/JloorDev/Backrooms-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JloorDev&repo=Backrooms-Game&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9&icon_color=F97316" alt="Backrooms-Game" />
+  <a href="https://github.com/JloorDev/yanmac-launcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JloorDev&repo=yanmac-launcher&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9&icon_color=F97316" alt="yanmac-launcher" />
   </a>
 </p>
 
-## Stats
+## Languages
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JloorDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9&icon_color=F97316" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JloorDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 ## Contact
 
-👤 **Personal:** [X](https://twitter.com/GamerJloor) · [YouTube](https://www.youtube.com/@JloorDev)
+👤 **Personal:** [X](https://twitter.com/GamerJloor) · [YouTube](https://www.youtube.com/@JloorDev) · [Discord](https://discord.gg/VseWbHCgRJ)
 
 🐱 **CalciumCat Team:** [itch.io](https://calciumcat-team.itch.io/) · [X](https://x.com/CalciumcatTeam) · [YouTube](https://www.youtube.com/@CalciumCatTeam)
 
@@ -59,7 +53,5 @@ I'm part of **[CalciumCat Team](https://calciumcat-team.itch.io/)**, where we pu
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/JloorDev/JloorDev/main/meme-cat.gif" alt="Meme Cat GIF" />
-
-<sub>Thanks for stopping by! ⭐</sub>
 
 </div>
